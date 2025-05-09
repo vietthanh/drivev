@@ -12,7 +12,7 @@
             },
             {
                 "co": 3,
-                "pr":false
+                "pr":true
             }
 		]
 	},
@@ -29,7 +29,7 @@
             },
             {
                 "co": 3,
-                "pr":false
+                "pr":true
             }
 		]
 	}
