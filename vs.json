@@ -16,7 +16,7 @@
             },
             {
                 "co": 4,
-                "pr":true
+                "pr":false
             }
 		]
 	},
@@ -37,7 +37,7 @@
             },
             {
                 "co": 4,
-                "pr":true
+                "pr":false
             }
 		]
 	}
